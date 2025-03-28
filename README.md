@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Hi, I’m ahmad faik !<br><br>I’m currently a student a Data Science bootcamp in Purwadhika Digital Technology School, learning the essentials of Python, machine learning, and data analysis.<br>I'm passionate about transforming data into actionable insights and solving real-world problems through data science.<br><br>🔭 I'm currently working on:<br>- Building foundational skills in Python<br>- Developing CRUD applications to manage data and practice data science.<br><br>💻 Past Project Experience:<br>- Built a **CRUD app** for managing user data, where I implemented functionalities for **Create**, **Read**, **Update**, and **Delete** using Python and SQL.<br><br>🌱 I’m currently learning:<br>- Python, NumPy, and Pandas<br>- Working with SQL and databases for data management and manipulation.<br><br>💬 Feel free to reach out if you'd like to collaborate on any data science projects or discuss machine learning techniques!<br><br>📫 How to reach me: [Email] faiquc29@gmail.com
 
-<!--
-**ahmadFaik/ahmadFaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/ahmadFaik) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmadfaik_s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadfaik) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faiquc29@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ahmadFaik&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ahmadFaik&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadFaik&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ahmadFaik&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
