@@ -7,10 +7,10 @@ I’m currently a student of Data Science bootcamp in Purwadhika Digital Technol
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadfaik) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faiquc29@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmadfaik_s)
 
 ## 💻 Tech Stack:
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Pandas_logo.png" width="30" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/NumPy_logo_2020.svg" width="30" />
+[![Python](https://img.shields.io/badge/Python-%2300A8E8.svg?logo=python&logoColor=white)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-%230A8AC7.svg?logo=numpy&logoColor=white)](https://numpy.org/)
+[![SQL](https://img.shields.io/badge/SQL-%23000D73.svg?logo=sql&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 
 ## 🚀 **My Projects**
 **[SISTEM MANAJEMEN DATA SAHAM KONOHA](https://github.com/ahmadFaik/STOCK-CLI)**
