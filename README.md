@@ -19,7 +19,7 @@ I’m currently a student of Data Science bootcamp in Purwadhika Digital Technol
  <br>🟢 **Deskripsi**: Aplikasi berbasis CLI yang memungkinkan pengguna untuk mendapatkan informasi saham secara mudah dan cepat.  
  🎯 **Fitur Utama**: Lihat data saham, tambah data saham, perbarui data saham, dan hapus data saham.
  <br>🔧 **Teknologi**: <span style="display: inline-block; margin-right: 10px;">
-  [![Python](https://img.shields.io/badge/Python-%2300A8E8.svg?logo=python&logoColor=white)](https://www.python.org/) Python
+  [![Python](https://img.shields.io/badge/Python-%2300A8E8.svg?logo=python&logoColor=white)](https://www.python.org/)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ahmadFaik&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
