@@ -7,13 +7,17 @@ I’m currently a student of Data Science bootcamp in Purwadhika Digital Technol
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadfaik) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faiquc29@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmadfaik_s)
 
 ## 💻 Tech Stack:
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Anaconda_Logo.png" width="30" /> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/MySQL_logo.svg" width="30" /> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30" /> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/NumPy_logo_2020.svg" width="30" /> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Pandas_logo.svg" width="30" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Anaconda_Logo.png" width="30" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/NumPy_logo_2020.svg" width="30" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Pandas_logo.svg" width="30" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/MySQL_logo.svg" width="30" />
 
 ## 🚀 **My Projects**
 **[SISTEM MANAJEMEN DATA SAHAM KONOHA](https://github.com/ahmadFaik/STOCK-CLI)**
  <br>🟢 **Deskripsi**: Aplikasi berbasis CLI yang memungkinkan pengguna untuk mendapatkan informasi saham secara mudah dan cepat.  
  🎯 **Fitur Utama**: Lihat data saham, tambah data saham, perbarui data saham, dan hapus data saham.
- <br>🔧 **Teknologi**:  Python <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="15" /> 
+ <br>🔧 **Teknologi**:  Python <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="20" /> 
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ahmadFaik&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
