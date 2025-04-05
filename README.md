@@ -10,7 +10,7 @@
 
 ## 🚀 **My Projects**
 **[SISTEM MANAJEMEN DATA SAHAM KONOHA](https://github.com/ahmadFaik/STOCK-CLI)**
- <br>🟢 **Deskripsi**: Aplikasi yang memungkinkan pengguna untuk mendapatkan informasi saham secara mudah dan cepat melalui terminal atau command line.  
+ <br>🟢 **Deskripsi**: Aplikasi berbasis CLI yang memungkinkan pengguna untuk mendapatkan informasi saham secara mudah dan cepat.  
  <br>🎯 **Fitur Utama**: Lihat data saham, tambah data saham, perbarui data saham, dan hapus data saham.
  <br>🔧 **Teknologi**:  Python 🐍
 
