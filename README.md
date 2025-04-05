@@ -15,8 +15,7 @@ I’m currently a student of Data Science bootcamp in Purwadhika Digital Technol
 [![SQL](https://img.shields.io/badge/SQL-%23000D73.svg?logo=sql&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 
 ## 🚀 **My Projects**
-<img src="path/to/your/stock-exchange-icon.svg" alt="Stock Exchange Icon">
-**[SISTEM MANAJEMEN DATA SAHAM KONOHA](https://github.com/ahmadFaik/STOCK-CLI)** 
+![image](https://github.com/user-attachments/assets/5b7a791e-3f21-4e02-8b15-a6e43b18d288) **[SISTEM MANAJEMEN DATA SAHAM KONOHA](https://github.com/ahmadFaik/STOCK-CLI)** 
  <br>🟢 **Deskripsi**: Aplikasi berbasis CLI yang memungkinkan pengguna untuk mendapatkan informasi saham secara mudah dan cepat.  
  🎯 **Fitur Utama**: Lihat data saham, tambah data saham, perbarui data saham, dan hapus data saham.
  <br>🔧 **Teknologi**: <span style="display: inline-block; margin-right: 10px;">
