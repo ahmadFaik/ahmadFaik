@@ -7,10 +7,9 @@ I’m currently a student of Data Science bootcamp in Purwadhika Digital Technol
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadfaik) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faiquc29@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmadfaik_s)
 
 ## 💻 Tech Stack:
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Pandas_logo.png" width="30" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Python-logo.png" width="30" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Pandas_logo.svg" width="30" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/NumPy_logo_2020.svg" width="30" />
-
 
 
 ## 🚀 **My Projects**
