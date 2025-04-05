@@ -4,7 +4,9 @@ I’m currently a student of Data Science bootcamp in Purwadhika Digital Technol
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadfaik) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faiquc29@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmadfaik_s)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadfaik) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faiquc29@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmadfaik_s)
 
 ## 💻 Tech Stack:
 [![Python](https://img.shields.io/badge/Python-%2300A8E8.svg?logo=python&logoColor=white)](https://www.python.org/)
