@@ -1,5 +1,5 @@
 # 💫 About Me:
-## <br>👋 Hi, I’m ahmad faik !
+### 👋 Hi, I’m ahmad faik !
 <br>I’m currently a student of Data Science bootcamp in Purwadhika Digital Technology School, learning the essentials of Python, <br>machine learning, and data analysis.<br>I'm passionate about transforming data into actionable insights and solving real-world problems through data science.<br><br>🔭 I'm currently working on:<br>- Building foundational skills in Python<br>- Developing CRUD applications to manage data and practice data science.<br><br>💻 Past Project Experience:<br>- Built a CRUD app for managing user data, where I implemented functionalities for Create, Read, Update, and Delete using Python.<br><br>🌱 I’m currently learning:<br>- Python, NumPy, and Pandas<br>- SQL and databases for data management and manipulation.<br><br>💬 Feel free to reach out if you'd like to collaborate on any data science projects or discuss machine learning techniques!<br><br>📫 How to reach me: [Email] faiquc29@gmail.com
 
 
