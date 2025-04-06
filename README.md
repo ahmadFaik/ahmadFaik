@@ -20,6 +20,8 @@ I’m currently a student of Data Science bootcamp in Purwadhika Digital Technol
  🎯 **Fitur Utama**: Lihat data saham, tambah data saham, perbarui data saham, dan hapus data saham.
  <br>🔧 **Teknologi**: <span style="display: inline-block; margin-right: 10px;">
   [![Python](https://img.shields.io/badge/Python-%2300A8E8.svg?logo=python&logoColor=white)](https://www.python.org/)
+  <br>📈 **Preview Flowchart**:  
+![Flowchart Preview](https://drive.google.com/uc?id=1JGGydLdg9iY0Jf59v4uVV_S0FzrIBFbK)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ahmadFaik&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
