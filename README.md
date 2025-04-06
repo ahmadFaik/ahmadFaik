@@ -23,7 +23,6 @@ I’m currently a student of Data Science bootcamp in Purwadhika Digital Technol
 **🔄 Perbarui Data Saham**
 **❌ Hapus Data Saham**
 <br>🔧 **Teknologi**:
-Aplikasi ini dibangun dengan teknologi berikut:
 [![Python](https://img.shields.io/badge/Python-%2300A8E8.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![CLI](https://img.shields.io/badge/CLI-%2310A0D0.svg?logo=command-line&logoColor=white)](https://en.wikipedia.org/wiki/Command-line_interface)
   
