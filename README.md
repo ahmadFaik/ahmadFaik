@@ -16,14 +16,14 @@ I’m currently a student of Data Science bootcamp in Purwadhika Digital Technol
 
 ## 🚀 **My Projects**
 <img src="https://github.com/user-attachments/assets/7ccfd807-cf7f-4cf9-b83d-f7a89fec66bb" alt="stock-exchange-app" width="23" />  **[SISTEM MANAJEMEN DATA SAHAM KONOHA](https://github.com/ahmadFaik/STOCK-CLI)** 
- <br> 💡 **Deskripsi**: Aplikasi berbasis **CLI** untuk mempermudah pengguna dalam mendapatkan informasi saham secara cepat dan efisien.
- 🎯 **Fitur Utama**: 
+
+<br> 💡 **Deskripsi**: Aplikasi berbasis **CLI** untuk mempermudah pengguna dalam mendapatkan informasi saham secara cepat dan efisien.
+<br> 🎯 **Fitur Utama**: 
 - **📊 Lihat Data Saham**
 - **➕ Tambah Data Saham**
 - **🔄 Perbarui Data Saham**
 - **❌ Hapus Data Saham**
-
-<br> 🔧 **Teknologi**:
+<br>🔧 **Teknologi**:
 Aplikasi ini dibangun dengan teknologi berikut:
 - [![Python](https://img.shields.io/badge/Python-%2300A8E8.svg?logo=python&logoColor=white)](https://www.python.org/)
 - [![CLI](https://img.shields.io/badge/CLI-%2310A0D0.svg?logo=command-line&logoColor=white)](https://en.wikipedia.org/wiki/Command-line_interface)
