@@ -25,6 +25,9 @@ I’m currently a student of Data Science bootcamp in Purwadhika Digital Technol
 <br>🔧 **Teknologi**:
 [![Python](https://img.shields.io/badge/Python-%2300A8E8.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![CLI](https://img.shields.io/badge/CLI-%2310A0D0.svg?logo=command-line&logoColor=white)](https://en.wikipedia.org/wiki/Command-line_interface)
+
+## 📝 My Articles
+**[Exception Handling pada Python: Cara Menangani Error Lebih Mudah](https://medium.com/@faiquc29/️exception-handling-pada-python-cara-menangani-error-lebih-mudah-9ccc5872e9d0)**
   
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ahmadFaik&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
