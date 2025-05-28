@@ -69,6 +69,7 @@ A data analysis project using NYC Green Taxi Trip Records to uncover insights fo
 [![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white)](https://pandas.pydata.org/)  
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23F7931E.svg?logo=matplotlib&logoColor=white)](https://matplotlib.org/)  
 [![Seaborn](https://img.shields.io/badge/Seaborn-%2310A0D0.svg?logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+[![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?logo=tableau&logoColor=white)](https://www.tableau.com/)
 
 🔗 **Repository**: [Green-Taxi-Analysis](https://github.com/ahmadFaik/Green-Taxi-Analysis)
 
