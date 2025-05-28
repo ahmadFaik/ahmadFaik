@@ -19,7 +19,12 @@ I'm passionate about transforming data into actionable insights and solving real
 🌱 **Currently Learning:**
 - Python, NumPy, Pandas, Matplotlib, Seaborn.  
 - SQL and database management for data manipulation
-
+- **Statistics & Modeling**: Statsmodels, SciPy  
+- **Dashboard & BI Tools**:  
+  - **Tableau** – Interactive visualization and business dashboards  
+  - **Looker Studio** – Google-based dashboard and reporting tool  
+- **Notebook Environment**: Jupyter Notebook, Google Colab
+  
 💬 Feel free to reach out if you’d like to collaborate on a data science project or discuss machine learning techniques!
 
 📫 **Reach Me At**: faiquc29@gmail.com
@@ -40,6 +45,8 @@ I'm passionate about transforming data into actionable insights and solving real
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23F7931E.svg?logo=matplotlib&logoColor=white)](https://matplotlib.org/)  
 [![Seaborn](https://img.shields.io/badge/Seaborn-%2310A0D0.svg?logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)  
 [![SQL](https://img.shields.io/badge/SQL-%23000D73.svg?logo=sql&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+[![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?logo=tableau&logoColor=white)](https://www.tableau.com/)
+[![Looker Studio](https://img.shields.io/badge/Looker%20Studio-%230073e6.svg?logo=googleanalytics&logoColor=white)](https://lookerstudio.google.com/)
 
 ---
 
@@ -52,7 +59,7 @@ A data analysis project using NYC Green Taxi Trip Records to uncover insights fo
 
 📊 **Key Insights & Objectives**:
 - Identify peak hours, zones with highest demand, and underperforming areas  
-- Analyze trip durations, fare distributions, and pickup-dropoff patterns  
+- Analyze trip durations, fare distributions per borough, and pickup-dropoff patterns by borough 
 - Propose actionable strategies for more efficient fleet allocation and revenue growth
 
 🧰 **Tools Used**:  
@@ -73,7 +80,7 @@ A data analysis project using NYC Green Taxi Trip Records to uncover insights fo
 - 🔄 Perbarui Data  
 - ❌ Hapus Data  
 
-🔧 **Teknologi**:  
+🧰 **Tools Used**:  
 [![Python](https://img.shields.io/badge/Python-%2300A8E8.svg?logo=python&logoColor=white)](https://www.python.org/)  
 [![CLI](https://img.shields.io/badge/CLI-%2310A0D0.svg?logo=command-line&logoColor=white)](https://en.wikipedia.org/wiki/Command-line_interface)
 
