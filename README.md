@@ -17,7 +17,7 @@ I'm passionate about transforming data into actionable insights and solving real
   *(Pendekatan Analitik untuk Meningkatkan Efisiensi Operasional dan Memaksimalkan Profit Taksi Hijau)*
 
 🌱 **Currently Learning:**
-- Python, NumPy, Pandas, Matplotlib, Seaborn  
+- Python, NumPy, Pandas, Matplotlib, Seaborn.  
 - SQL and database management for data manipulation
 
 💬 Feel free to reach out if you’d like to collaborate on a data science project or discuss machine learning techniques!
@@ -37,6 +37,8 @@ I'm passionate about transforming data into actionable insights and solving real
 [![Python](https://img.shields.io/badge/Python-%2300A8E8.svg?logo=python&logoColor=white)](https://www.python.org/)  
 [![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white)](https://pandas.pydata.org/)  
 [![NumPy](https://img.shields.io/badge/NumPy-%230A8AC7.svg?logo=numpy&logoColor=white)](https://numpy.org/)  
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23F7931E.svg?logo=matplotlib&logoColor=white)](https://matplotlib.org/)  
+[![Seaborn](https://img.shields.io/badge/Seaborn-%2310A0D0.svg?logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)  
 [![SQL](https://img.shields.io/badge/SQL-%23000D73.svg?logo=sql&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 
 ---
