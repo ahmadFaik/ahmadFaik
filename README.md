@@ -39,7 +39,6 @@ I'm passionate about transforming data into actionable insights and solving real
 ---
 
 ## 💻 **Tech Stack**
-## 💻 **Tech Stack**
 <p align="left">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-%2300A8E8.svg?logo=python&logoColor=white" alt="Python" /></a>
   <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white" alt="Pandas" /></a>
@@ -76,12 +75,12 @@ A data analysis project using NYC Green Taxi Trip Records to uncover insights fo
 ---
 
 ### 🧾 [Sistem Manajemen Data Saham Konoha](https://github.com/ahmadFaik/STOCK-CLI)  
-💡 **Deskripsi**: Aplikasi berbasis CLI untuk membantu pengguna mengelola informasi saham secara efisien.  
-🎯 **Fitur Utama**:  
-- 📊 Lihat Data Saham  
-- ➕ Tambah Data  
-- 🔄 Perbarui Data  
-- ❌ Hapus Data  
+💡 **Description**: A CLI-based application designed to help users efficiently manage stock information.  
+🎯 **Key Features**:  
+- 📊 View Stock Data  
+- ➕ Add New Data  
+- 🔄 Update Existing Data  
+- ❌ Delete Data  
 
 🧰 **Tools Used**:  
 [![Python](https://img.shields.io/badge/Python-%2300A8E8.svg?logo=python&logoColor=white)](https://www.python.org/)  
