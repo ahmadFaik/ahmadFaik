@@ -34,9 +34,16 @@ I'm passionate about transforming data into actionable insights and solving real
 ---
 
 ## 💻 **Tech Stack**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadfaik) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faiquc29@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmadfaik_s)
+
 [![Python](https://img.shields.io/badge/Python-%2300A8E8.svg?logo=python&logoColor=white)](https://www.python.org/)  
 [![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white)](https://pandas.pydata.org/)  
 [![NumPy](https://img.shields.io/badge/NumPy-%230A8AC7.svg?logo=numpy&logoColor=white)](https://numpy.org/)  
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23F7931E.svg?logo=matplotlib&logoColor=white)](https://matplotlib.org/)  
+[![Seaborn](https://img.shields.io/badge/Seaborn-%2310A0D0.svg?logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)  
+[![SQL](https://img.shields.io/badge/SQL-%23000D73.svg?logo=sql&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 
 ---
 
