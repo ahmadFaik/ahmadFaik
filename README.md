@@ -66,10 +66,15 @@ A data analysis project using NYC Green Taxi Trip Records to uncover insights fo
 
 🧰 **Tools Used**:  
 [![Python](https://img.shields.io/badge/Python-%2300A8E8.svg?logo=python&logoColor=white)](https://www.python.org/)  
+[![NumPy](https://img.shields.io/badge/NumPy-%230A8AC7.svg?logo=numpy&logoColor=white)](https://numpy.org/)  
 [![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white)](https://pandas.pydata.org/)  
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23F7931E.svg?logo=matplotlib&logoColor=white)](https://matplotlib.org/)  
-[![Seaborn](https://img.shields.io/badge/Seaborn-%2310A0D0.svg?logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
-[![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?logo=tableau&logoColor=white)](https://www.tableau.com/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-%2310A0D0.svg?logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)  
+[![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?logo=plotly&logoColor=white)](https://plotly.com/)  
+[![Missingno](https://img.shields.io/badge/Missingno-%23666666.svg?logo=data&logoColor=white)](https://github.com/ResidentMario/missingno)  
+[![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?logo=tableau&logoColor=white)](https://www.tableau.com/)  [![Folium](https://img.shields.io/badge/Folium-%23006666.svg?logo=leaflet&logoColor=white)](https://python-visualization.github.io/folium/)
+[![GeoPandas](https://img.shields.io/badge/GeoPandas-%23222F5B.svg?logo=geopandas&logoColor=white)](https://geopandas.org/)
+
 
 🔗 **Repository**: [Green-Taxi-Analysis](https://github.com/ahmadFaik/Green-Taxi-Analysis)
 
