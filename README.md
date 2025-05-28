@@ -12,13 +12,9 @@ I'm passionate about transforming data into actionable insights and solving real
 - Conducting **NYC Green Taxi Trip Record Analysis**
 
 💻 **Past Project Experience:**
-- Built a CRUD app for managing user data using Python, implementing Create, Read, Update, and Delete functionalities  
-- Conducted an analytical project titled **"An Analytical Approach to Improving Operational Efficiency and Maximizing Profitability of Green Taxis"**  
-  *(original title: "Pendekatan Analitik untuk Meningkatkan Efisiensi Operasional dan Memaksimalkan Profit Taksi Hijau")*  
-  - Analyzed NYC Green Taxi Trip Records to identify peak hours, high-demand zones, and performance bottlenecks  
-  - Explored patterns in trip duration, fare distribution, and passenger behavior  
-  - Proposed actionable recommendations for optimizing fleet distribution and increasing revenue  
-  - Tools used: Python, Pandas, Matplotlib, and Seaborn
+- User Management CRUD App using Python  
+- **An Analytical Approach to Improving Operational Efficiency and Maximizing Profitability of Green Taxis**  
+  *(Pendekatan Analitik untuk Meningkatkan Efisiensi Operasional dan Memaksimalkan Profit Taksi Hijau)*
 
 🌱 **Currently Learning:**
 - Python, NumPy, Pandas, Matplotlib, Seaborn  
@@ -46,22 +42,43 @@ I'm passionate about transforming data into actionable insights and solving real
 ---
 
 ## 🚀 **My Projects**
-<img src="https://github.com/user-attachments/assets/7ccfd807-cf7f-4cf9-b83d-f7a89fec66bb" alt="stock-exchange-app" width="23" />  **[SISTEM MANAJEMEN DATA SAHAM KONOHA](https://github.com/ahmadFaik/STOCK-CLI)**  
-💡 **Description**: A command-line interface (CLI) application to help users quickly access and manage stock data  
-🎯 **Main Features**:  
-- 📊 View Stock Data  
-- ➕ Add New Stock Data  
-- 🔄 Update Existing Stock Data  
-- ❌ Delete Stock Data  
 
-🔧 **Technologies**:  
+### 📈 [An Analytical Approach to Improving Operational Efficiency and Maximizing Profitability of Green Taxis](https://github.com/ahmadFaik/Green-Taxi-Analysis)  
+📂 *Pendekatan Analitik untuk Meningkatkan Efisiensi Operasional dan Memaksimalkan Profit Taksi Hijau*  
+📍 **Project Summary**:  
+A data analysis project using NYC Green Taxi Trip Records to uncover insights for improving taxi operations and profitability.
+
+📊 **Key Insights & Objectives**:
+- Identify peak hours, zones with highest demand, and underperforming areas  
+- Analyze trip durations, fare distributions, and pickup-dropoff patterns  
+- Propose actionable strategies for more efficient fleet allocation and revenue growth
+
+🧰 **Tools Used**:  
+[![Python](https://img.shields.io/badge/Python-%2300A8E8.svg?logo=python&logoColor=white)](https://www.python.org/)  
+[![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white)](https://pandas.pydata.org/)  
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23F7931E.svg?logo=matplotlib&logoColor=white)](https://matplotlib.org/)  
+[![Seaborn](https://img.shields.io/badge/Seaborn-%2310A0D0.svg?logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+
+🔗 **Repository**: [Green-Taxi-Analysis](https://github.com/ahmadFaik/Green-Taxi-Analysis)
+
+---
+
+### 🧾 [Sistem Manajemen Data Saham Konoha](https://github.com/ahmadFaik/STOCK-CLI)  
+💡 **Deskripsi**: Aplikasi berbasis CLI untuk membantu pengguna mengelola informasi saham secara efisien.  
+🎯 **Fitur Utama**:  
+- 📊 Lihat Data Saham  
+- ➕ Tambah Data  
+- 🔄 Perbarui Data  
+- ❌ Hapus Data  
+
+🔧 **Teknologi**:  
 [![Python](https://img.shields.io/badge/Python-%2300A8E8.svg?logo=python&logoColor=white)](https://www.python.org/)  
 [![CLI](https://img.shields.io/badge/CLI-%2310A0D0.svg?logo=command-line&logoColor=white)](https://en.wikipedia.org/wiki/Command-line_interface)
 
 ---
 
 ## 📝 **My Articles**
-✍️ **[Exception Handling pada Python: Cara Menangani Error Lebih Mudah](https://medium.com/@faiquc29/️exception-handling-pada-python-cara-menangani-error-lebih-mudah-9ccc5872e9d0)**
+✍️ [**Exception Handling pada Python: Cara Menangani Error Lebih Mudah**](https://medium.com/@faiquc29/️exception-handling-pada-python-cara-menangani-error-lebih-mudah-9ccc5872e9d0)
 
 ---
 
