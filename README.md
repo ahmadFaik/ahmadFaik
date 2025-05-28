@@ -39,14 +39,17 @@ I'm passionate about transforming data into actionable insights and solving real
 ---
 
 ## 💻 **Tech Stack**
-[![Python](https://img.shields.io/badge/Python-%2300A8E8.svg?logo=python&logoColor=white)](https://www.python.org/)  
-[![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white)](https://pandas.pydata.org/)  
-[![NumPy](https://img.shields.io/badge/NumPy-%230A8AC7.svg?logo=numpy&logoColor=white)](https://numpy.org/)  
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23F7931E.svg?logo=matplotlib&logoColor=white)](https://matplotlib.org/)  
-[![Seaborn](https://img.shields.io/badge/Seaborn-%2310A0D0.svg?logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)  
-[![SQL](https://img.shields.io/badge/SQL-%23000D73.svg?logo=sql&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
-[![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?logo=tableau&logoColor=white)](https://www.tableau.com/)
-[![Looker Studio](https://img.shields.io/badge/Looker%20Studio-%230073e6.svg?logo=googleanalytics&logoColor=white)](https://lookerstudio.google.com/)
+## 💻 **Tech Stack**
+<p align="left">
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-%2300A8E8.svg?logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white" alt="Pandas" /></a>
+  <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-%230A8AC7.svg?logo=numpy&logoColor=white" alt="NumPy" /></a>
+  <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-%23F7931E.svg?logo=matplotlib&logoColor=white" alt="Matplotlib" /></a>
+  <a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/Seaborn-%2310A0D0.svg?logo=seaborn&logoColor=white" alt="Seaborn" /></a>
+  <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://img.shields.io/badge/SQL-%23000D73.svg?logo=sql&logoColor=white" alt="SQL" /></a>
+  <a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/Tableau-%23E97627.svg?logo=tableau&logoColor=white" alt="Tableau" /></a>
+  <a href="https://lookerstudio.google.com/"><img src="https://img.shields.io/badge/Looker%20Studio-%230073e6.svg?logo=googleanalytics&logoColor=white" alt="Looker Studio" /></a>
+</p>
 
 ---
 
