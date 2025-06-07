@@ -74,10 +74,10 @@
 ## 🤝 Let’s Connect
 
 <p align="center">
-  <a href="mailto:faiquc29@gmail.com"><img src="https://img.shields.io/badge/Email-faiquc29@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/ahmadfaik"><img src="https://img.shields.io/badge/LinkedIn-Ahmad%20Faik-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/ahmadFaik"><img src="https://img.shields.io/badge/GitHub-ahmadFaik-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://instagram.com/ahmadfaik_s"><img src="https://img.shields.io/badge/Instagram-ahmadfaik_s-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:faiquc29@gmail.com"><img src="https://img.shields.io/badge/Email-faiquc29@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/ahmadfaik"><img src="https://img.shields.io/badge/LinkedIn-Ahmad%20Faik-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/ahmadFaik"><img src="https://img.shields.io/badge/GitHub-ahmadFaik-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://instagram.com/ahmadfaik_s"><img src="https://img.shields.io/badge/Instagram-ahmadfaik_s-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
@@ -85,12 +85,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadFaik&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" height="200px" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadFaik&theme=tokyonight&hide_border=false" width="48%" height="200px" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadFaik&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadFaik&theme=tokyonight&hide_border=false" height="180px"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadFaik&layout=compact&theme=tokyonight&hide_border=false" width="48%" alt="Top Languages"/>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmadFaik&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ahmadFaik&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
