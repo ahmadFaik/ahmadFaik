@@ -34,7 +34,7 @@
 ## 🎓 Education
 
 * **B.A. in Islamic Law** – Al-Azhar University, Cairo (2023)
-  ▫️ Focused on social research, critical thinking, and structured argumentation
+  ▪️ Focused on social research, critical thinking, and structured argumentation
 * **Purwadhika Bootcamp – Data Science** (2025)
 * **Coding Studio Bootcamp – Data Analyst** (2024)
 * **TOEFL (Score: 500)** – Central Course Pare (2024)
@@ -50,7 +50,7 @@
 
 ---
 
-## 🏛️ Organizational Experience
+## 🏩 Organizational Experience
 
 * **Media & Public Relations** – PCINU Egypt
 * **Member of LAKPESDAM** – PCINU Egypt
@@ -59,11 +59,11 @@
 
 ## 🤝 Let’s Connect
 
-<p align="left">
-  <a href="mailto:faiquc29@gmail.com"><img src="https://img.shields.io/badge/Email-faiquc29@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/ahmadfaik"><img src="https://img.shields.io/badge/LinkedIn-Ahmad%20Faik-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/ahmadFaik"><img src="https://img.shields.io/badge/GitHub-ahmadFaik-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://instagram.com/ahmadfaik_s"><img src="https://img.shields.io/badge/Instagram-ahmadfaik_s-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+<p align="center">
+  <a href="mailto:faiquc29@gmail.com"><img src="https://img.shields.io/badge/Email-faiquc29@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/ahmadfaik"><img src="https://img.shields.io/badge/LinkedIn-Ahmad%20Faik-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/ahmadFaik"><img src="https://img.shields.io/badge/GitHub-ahmadFaik-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://instagram.com/ahmadfaik_s"><img src="https://img.shields.io/badge/Instagram-ahmadfaik_s-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
@@ -71,8 +71,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadFaik&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadFaik&theme=tokyonight&hide_border=false" width="48%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadFaik&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="49%" height="200px" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadFaik&theme=tokyonight&hide_border=false" width="49%" height="200px" alt="GitHub Streak"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadFaik&layout=compact&theme=tokyonight&hide_border=false" width="48%" alt="Top Languages"/>
