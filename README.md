@@ -10,7 +10,21 @@
 
 ## 🧠 Core Skills
 
-**Languages & Tools:** Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Tableau, Looker Studio, Git, Jupyter, Google Colab, CLI
+### Languages & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40"/>
+</p>
 
 **Focus Areas:**
 
@@ -71,12 +85,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadFaik&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="49%" height="200px" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadFaik&theme=tokyonight&hide_border=false" width="49%" height="200px" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadFaik&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" height="200px" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadFaik&theme=tokyonight&hide_border=false" width="48%" height="200px" alt="GitHub Streak"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadFaik&layout=compact&theme=tokyonight&hide_border=false" width="48%" alt="Top Languages"/>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmadFaik&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadFaik" />
+  <img src="https://komarev.com/ghpvc/?username=ahmadFaik&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
